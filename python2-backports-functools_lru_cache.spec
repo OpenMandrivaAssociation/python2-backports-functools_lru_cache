@@ -15,6 +15,7 @@ Source0:        https://pypi.io/packages/source/b/%{dotname}/%{dotname}-%{versio
 BuildArch:      noarch
 BuildRequires:  python2-devel
 BuildRequires:  python2-setuptools
+BuildRequires:	python2-setuptools_scm
 
 %description
 %{sum}.
