@@ -4,7 +4,7 @@
 
 Name:           python2-%{srcname}
 Version:	1.5
-Release:	1
+Release:	2
 Summary:        %{sum}
 Group:          Development/Python
 
